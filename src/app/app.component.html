@@ -1,0 +1,10 @@
+<div style="margin: 10px;">
+  <button ejs-button (click)="onBtnClk()">Insert Field</button>
+  <button ejs-button (click)="export()">Export</button>
+  <button ejs-button (click)="import()">Import</button>
+  <button ejs-button (click)="reset()">Reset</button>
+  <button ejs-button (click)="protection()">Start Protection</button>
+  <button ejs-button (click)="removeProtection()">Stop Protection</button>
+  <ejs-documenteditorcontainer #documentEditor height="590" [showPropertiesPane]=false
+  serviceUrl="https://ej2services.syncfusion.com/production/web-services/api/documenteditor/"></ejs-documenteditorcontainer>
+</div>
