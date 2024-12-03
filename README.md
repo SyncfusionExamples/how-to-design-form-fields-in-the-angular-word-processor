@@ -1,11 +1,11 @@
 # How to Design Form Fields in the Angular Word Processor
 
-A quick-start Angular project that shows how to design form fields in the Syncfusion Angular Word Processor component. This project contains code to insert the form fields programmatically and import, export, and reset the form data. It also contains code to apply protection to forms so they can only be filled.
+A quick-start Angular project that shows how to design form fields in the Syncfusion&reg; Angular Word Processor component. This project contains code to insert the form fields programmatically and import, export, and reset the form data. It also contains code to apply protection to forms so they can only be filled.
 
-Refer to the following documentation about form fields in the Syncfusion Angular Word Processor component: 
+Refer to the following documentation about form fields in the Syncfusion&reg; Angular Word Processor component: 
 https://ej2.syncfusion.com/angular/documentation/document-editor/form-fields 
 
-Check out this online demo for form fields in the Syncfusion Angular Word Processor component:
+Check out this online demo for form fields in the Syncfusion&reg; Angular Word Processor component:
 https://ej2.syncfusion.com/angular/demos/#/material3/document-editor/form-fields 
 
 Watch the following video to get started with the Angular Word Processor component:
