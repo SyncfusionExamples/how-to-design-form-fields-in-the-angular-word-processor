@@ -2,6 +2,7 @@ import { Component, ViewChild } from '@angular/core';
 import { DocumentEditorContainer } from '@syncfusion/ej2-angular-documenteditor';
 
 @Component({
+  standalone: false,
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
