@@ -1,14 +1,14 @@
-# How to Design Form Fields in the Angular Word Processor
+# How to Design Form Fields in the Angular DOCX Editor (Document Editor)
 
-A quick-start Angular project that shows how to design form fields in the Syncfusion&reg; Angular Word Processor component. This project contains code to insert the form fields programmatically and import, export, and reset the form data. It also contains code to apply protection to forms so they can only be filled.
+A quick-start Angular project that shows how to design form fields in the Syncfusion<sup style="font-size:70%">&reg;</sup> [Angular DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/angular-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor). This project contains code to insert the form fields programmatically and import, export, and reset the form data. It also contains code to apply protection to forms so they can only be filled.
 
-Refer to the following documentation about form fields in the Syncfusion&reg; Angular Word Processor component: 
+Refer to the following documentation about form fields in the Syncfusion&reg; Angular DOCX Editor: 
 https://ej2.syncfusion.com/angular/documentation/document-editor/form-fields 
 
-Check out this online demo for form fields in the Syncfusion&reg; Angular Word Processor component:
+Check out this online demo for form fields in the Syncfusion&reg; Angular DOCX Editor:
 https://ej2.syncfusion.com/angular/demos/#/material3/document-editor/form-fields 
 
-Watch the following video to get started with the Angular Word Processor component:
+Watch the following video to get started with the Angular DOCX Editor:
 https://www.youtube.com/watch?v=UHdjjR_BbQY  
 
 ## Project prerequisites
